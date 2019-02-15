@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pangff",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "debug": "^4.1.1",
     "ioredis": "^4.6.2",
