@@ -1,6 +1,10 @@
 ## 华为推送Node.js SDK
 
-### 使用（具体见samples/push-sample.js)
+[![version](https://img.shields.io/npm/v/hwpush.svg?style=flat)](https://www.npmjs.com/package/hwpush)
+
+---
+
+### 使用
 
 安装
 
@@ -9,7 +13,7 @@ npm install hwpush --save
 ```
 
 
-示例代码
+示例代码（具体见samples/push-sample.js)
 
 ```
 const HuaweiClient = require('hwpush')
