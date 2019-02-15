@@ -1,8 +1,9 @@
 {
   "name": "hwpush",
-  "version": "1.0.1",
-  "description": "华为nodejs服务器端推送sdk",
+  "version": "1.0.2",
+  "description": "华为服务器端推送sdk",
   "main": "index.js",
+  "homepage": "https://github.com/pangff/hwpush",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
