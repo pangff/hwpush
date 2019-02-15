@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "华为服务器端推送sdk",
   "main": "index.js",
+  "keywords":["hwpush","huawei push","huaweipush","node-huawei-push"],
   "homepage": "https://github.com/pangff/hwpush",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
