@@ -1,6 +1,6 @@
 {
   "name": "hwpush",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "华为服务器端推送sdk",
   "main": "index.js",
   "keywords":["hwpush","huawei push","huaweipush","node-huawei-push"],
